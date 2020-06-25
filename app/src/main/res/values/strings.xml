@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceOnAClick</string>
+    <string-array name="spinner1">
+        <item>Customer</item>
+        <item>Service Provider</item>
+    </string-array>
+</resources>
